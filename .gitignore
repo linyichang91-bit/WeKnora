@@ -11,6 +11,8 @@
 *_secret
 *.key
 *.crt
+/bbk.txt
+/ssh.txt
 
 # IDE和编辑器文件
 *.swp
